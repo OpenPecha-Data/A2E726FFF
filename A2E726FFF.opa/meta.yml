@@ -1,0 +1,22 @@
+id: A2E726FFF
+title: Maṇḍala Offering from the Tradition of Jatsön Nyingpo
+type: translation
+pechas:
+- I5068F896
+- I9D94B0A4
+- ID20BD9AF
+source_metadata:
+  languages:
+  - en
+  - es
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:38:56.455400
+  last_modified_at: 2023-01-04 12:38:56.455416
+  collections:
+  - Jatsön Nyingpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I5068F896/9486: A2AD
+  I9D94B0A4/7BC1: A2AD
+  ID20BD9AF/5BB5: A2AD
